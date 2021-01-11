@@ -1,1 +1,1 @@
-![](asher.png)
+[<img src="asher.png" style="pointer-options:none;" />](http://asherweintraub.com)
